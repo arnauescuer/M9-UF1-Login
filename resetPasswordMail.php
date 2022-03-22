@@ -16,7 +16,7 @@
     $mail->Port = 587;
     $codi=$hash;
     //Credencials del compte GMAIL
-    $mail->Username = 'adria.herrerosl@educem.net';
+    $mail->Username = '';
     $mail->Password = '7632S@2122';
 
     //Dades del correu electrònic
